@@ -1,4 +1,4 @@
-### HEALTHY MIND MAP NODE
+### NODE FIREBASE ADMIN
 
 ### To Start 
 Clone the repo
